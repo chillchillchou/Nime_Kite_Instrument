@@ -1,8 +1,4 @@
-/*     Arduino Rotary Encoder Tutorial
 
-    by Dejan Nedelkovski, www.HowToMechatronics.com
-
-*/
 #include <JC_Button.h>          // https://github.com/JChristensen/JC_Button
 #include <Keyboard.h>
 

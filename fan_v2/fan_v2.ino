@@ -1,14 +1,12 @@
 /***********************************************************************************
 
-   Demo Arduino code for 4CH AC DIMMER MODULE
 
-   AC LINE FREQUENCY - 60HZ !
+   AC LINE FREQUENCY - 60HZ 
 
    Variables for dimming - buf_CH1, buf_CH2, buf_CH3, buf_CH4 !
 
    Variables have range 0-255. 0 - Fully ON, 255 - Fully OFF.
 
-   KRIDA Electronics, 4 SEP 2016
  ***********************************************************************************/
 
 
